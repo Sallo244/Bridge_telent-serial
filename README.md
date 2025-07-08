@@ -9,9 +9,9 @@ This is a personal open source project created to create an app that can create 
 
 
 ## compatibilidade com Windows 7
-Com adição de feature simples, além de ter sido feito com base no Python 3.8, utilizando também a biblioteca Pyserial e Telnetlib3, justamente pensando na compatibilidade com Windows 7.
+Tanto o arquivo .py quanto o executável foram feitos com base no Python 3.8, utilizando também a biblioteca Pyserial e Telnetlib3, justamente pensando na compatibilidade com Windows 7.
 
-With the addition of a simple feature, in addition to being made based on Python 3.8, also using the Pyserial and Telnetlib3 libraries, precisely thinking about compatibility with Windows 7.
+Both the .py file and the executable were made based on Python 3.8, also using the Pyserial and Telnetlib3 libraries, precisely with Windows 7 compatibility in mind.
 
 ## Bibliotecas externas/External libraries
 
