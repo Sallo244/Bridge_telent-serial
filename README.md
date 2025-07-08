@@ -4,6 +4,6 @@ This is a personal open source project created to create an app that can create 
 
 ![Captura de tela 2025-07-08 060759](https://github.com/user-attachments/assets/c85735ef-9907-42be-945a-87b952a2e14e)
 
-O arquivo .py, assim como o executavel vai estar tanto em PT-BR quanto em inglês(com exceção dos comentários no arquivo .py que vão ter), além de ter sido feito com base no python 3.8, utilizando tambem a biblioteca Pyserial e Telnetlib3
+O arquivo .py, assim como o executavel vai estar tanto em PT-BR quanto em inglês(com exceção dos comentários no arquivo .py que vão estar apenas em PT-BR), além de ter sido feito com base no python 3.8, utilizando tambem a biblioteca Pyserial e Telnetlib3, justamente pensando na compatibilidade com Windows 7.
 
-The .py file, as well as the executable, will be in both PT-BR and English.
+The .py file, as well as the executable, will be in both PT-BR and English (with the exception of the comments in the .py file, which will only be in PT-BR), in addition to having been made based on Python 3.8, also using the Pyserial and Telnetlib3 libraries, precisely with Windows 7 compatibility in mind.
