@@ -8,7 +8,7 @@ This is a personal open source project created to create an app that can create 
 ![Captura de tela 2025-07-08 072617](https://github.com/user-attachments/assets/831a4169-35e2-49f4-847e-cfd574fe29cf)
 
 
-## compatibilidade com Windows 7
+## compatibilidade com Windows 7/Windows 7 compatibility
 Tanto o arquivo .py quanto o executável foram feitos com base no Python 3.8, utilizando também a biblioteca Pyserial e Telnetlib3, justamente pensando na compatibilidade com Windows 7.
 
 Both the .py file and the executable were made based on Python 3.8, also using the Pyserial and Telnetlib3 libraries, precisely with Windows 7 compatibility in mind.
