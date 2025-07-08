@@ -4,9 +4,8 @@ Este é um projeto pessoal open source criado para criar um app que possa criar 
 
 This is a personal open source project created to create an app that can create a bridge between serial and TCP/IP communications, and can also, through third-party programs such as com0com, receive data between virtual serials and devices that require TCP/IP-TelNet communication, perfect for integrating modern equipment and old systems used in companies, in addition to having the interface created by the tkinter library to facilitate use for more lay people, the .py file, as well as the executable, will be in both PT-BR and English (with the exception of the comments in the .py file which will only be in PT-BR).
 
-![Captura de tela 2025-07-08 060759](https://github.com/user-attachments/assets/c85735ef-9907-42be-945a-87b952a2e14e)
-![Captura de tela 2025-07-08 072617](https://github.com/user-attachments/assets/831a4169-35e2-49f4-847e-cfd574fe29cf)
-
+![Captura de tela 2025-07-08 060759](https://github.com/user-attachments/assets/a0e9cc59-7546-4799-85df-b10d226bf370)
+![Captura de tela 2025-07-08 072617](https://github.com/user-attachments/assets/3dbc9413-2876-450d-a0e3-41f3d2eea3bf)
 
 ## compatibilidade com Windows 7/Windows 7 compatibility
 Tanto o arquivo .py quanto o executável foram feitos com base no Python 3.8, utilizando também a biblioteca Pyserial e Telnetlib3, justamente pensando na compatibilidade com Windows 7.
@@ -15,15 +14,6 @@ Both the .py file and the executable were made based on Python 3.8, also using t
 
 ## Bibliotecas externas/External libraries
 
-Deixarei aqui os links das bibliotecas do Pyserial e Telnetlib3, além do Asyncio, que é um dos pré-requisitos para o Telnetlib3 funcionar.
+Deixarei aqui os links das bibliotecas do [Pyserial](https://pypi.org/project/pyserial/) e [Telnetlib3](https://pypi.org/project/telnetlib3/), além do [Asyncio](https://pypi.org/project/asyncio/), que é um dos pré-requisitos para o [Telnetlib3](https://pypi.org/project/telnetlib3/) funcionar.
 
-I will leave here the links to the Pyserial and Telnetlib3 libraries, in addition to Asyncio, which is one of the prerequisites for Telnetlib3 to work.
-
-Asyncio:
-https://pypi.org/project/asyncio/
-
-Pyserial:
-https://pypi.org/project/pyserial/
-
-Telnetlib3:
-https://pypi.org/project/telnetlib3/
+I will leave here the links to the [Pyserial](https://pypi.org/project/pyserial/) and [Telnetlib3](https://pypi.org/project/telnetlib3/) libraries, in addition to [Asyncio](https://pypi.org/project/asyncio/), which is one of the prerequisites for [Telnetlib3](https://pypi.org/project/telnetlib3/) to work.
